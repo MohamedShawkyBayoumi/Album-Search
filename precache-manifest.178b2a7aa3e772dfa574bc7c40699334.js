@@ -328,6 +328,10 @@ self.__precacheManifest = [
     "url": "/Album-Search/static/media/lato-semibold.c2b50f4a.woff"
   },
   {
+    "revision": "16d14ad314296a4644d550c8f20bd407",
+    "url": "/Album-Search/static/media/lato-thinitalic.16d14ad3.woff"
+  },
+  {
     "revision": "b55e385f24f0f9f724dac935fe292ecf",
     "url": "/Album-Search/static/media/lato-lightitalic.b55e385f.woff"
   },
@@ -348,10 +352,6 @@ self.__precacheManifest = [
     "url": "/Album-Search/static/media/lato-heavyitalic.38d2399f.woff"
   },
   {
-    "revision": "16d14ad314296a4644d550c8f20bd407",
-    "url": "/Album-Search/static/media/lato-thinitalic.16d14ad3.woff"
-  },
-  {
     "revision": "f28f2d6482446544ef1ea1ccc6dd5892",
     "url": "/Album-Search/static/media/lato-italic.f28f2d64.woff"
   },
@@ -368,12 +368,12 @@ self.__precacheManifest = [
     "url": "/Album-Search/static/media/lato-black.a54bddbc.ttf"
   },
   {
-    "revision": "06e1c8dbe641dd9dfa4367dc2a6efb9f",
-    "url": "/Album-Search/static/media/lato-medium.06e1c8db.ttf"
-  },
-  {
     "revision": "5b1b8b856d7a8cb1cb0bae6d0573f2e9",
     "url": "/Album-Search/static/media/lato-bold.5b1b8b85.ttf"
+  },
+  {
+    "revision": "06e1c8dbe641dd9dfa4367dc2a6efb9f",
+    "url": "/Album-Search/static/media/lato-medium.06e1c8db.ttf"
   },
   {
     "revision": "72c6dd530f0acc74b5286a7dcfa9e2d8",
@@ -396,16 +396,16 @@ self.__precacheManifest = [
     "url": "/Album-Search/static/media/lato-light.cf44fd55.ttf"
   },
   {
-    "revision": "4c66fb2b46d728c2e8d73dff1ea22172",
-    "url": "/Album-Search/static/media/lato-blackitalic.4c66fb2b.ttf"
-  },
-  {
     "revision": "71e8fd8ecaf5b352d6bee317985c2ee8",
     "url": "/Album-Search/static/media/lato-bolditalic.71e8fd8e.ttf"
   },
   {
     "revision": "4a1d8c14d03979c73781b76904fa95bc",
     "url": "/Album-Search/static/media/lato-heavyitalic.4a1d8c14.ttf"
+  },
+  {
+    "revision": "4c66fb2b46d728c2e8d73dff1ea22172",
+    "url": "/Album-Search/static/media/lato-blackitalic.4c66fb2b.ttf"
   },
   {
     "revision": "14caa659f6c771d8125c41098035cfcd",
