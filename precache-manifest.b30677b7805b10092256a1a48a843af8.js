@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Album-Search/static/media/lato-hairlineitalic.0cf7709b.eot"
   },
   {
-    "revision": "5c09f2aa28fe3521cacb",
+    "revision": "1bfcf482f08d1ca7895e",
     "url": "/Album-Search/static/css/main.f771999d.chunk.css"
   },
   {
@@ -216,8 +216,8 @@ self.__precacheManifest = [
     "url": "/Album-Search/static/media/lato-hairline.c27ae785.eot"
   },
   {
-    "revision": "5c09f2aa28fe3521cacb",
-    "url": "/Album-Search/static/js/main.5c09f2aa.chunk.js"
+    "revision": "1bfcf482f08d1ca7895e",
+    "url": "/Album-Search/static/js/main.1bfcf482.chunk.js"
   },
   {
     "revision": "d2d9ddbd08ae0ade29cebca9330a05fc",
@@ -292,10 +292,6 @@ self.__precacheManifest = [
     "url": "/Album-Search/static/media/lato-hairlineitalic.b4da0df6.woff"
   },
   {
-    "revision": "f80bda6afd19534368443a3d0323a140",
-    "url": "/Album-Search/static/media/lato-black.f80bda6a.woff"
-  },
-  {
     "revision": "13fa4c60e0ee7ea5fe2bd84059fb8cac",
     "url": "/Album-Search/static/media/lato-thin.13fa4c60.woff"
   },
@@ -326,6 +322,10 @@ self.__precacheManifest = [
   {
     "revision": "c2b50f4a7d908c8d06f5b05ec135e166",
     "url": "/Album-Search/static/media/lato-semibold.c2b50f4a.woff"
+  },
+  {
+    "revision": "f80bda6afd19534368443a3d0323a140",
+    "url": "/Album-Search/static/media/lato-black.f80bda6a.woff"
   },
   {
     "revision": "16d14ad314296a4644d550c8f20bd407",
@@ -404,10 +404,6 @@ self.__precacheManifest = [
     "url": "/Album-Search/static/media/lato-heavyitalic.4a1d8c14.ttf"
   },
   {
-    "revision": "4c66fb2b46d728c2e8d73dff1ea22172",
-    "url": "/Album-Search/static/media/lato-blackitalic.4c66fb2b.ttf"
-  },
-  {
     "revision": "14caa659f6c771d8125c41098035cfcd",
     "url": "/Album-Search/static/media/lato-thinitalic.14caa659.ttf"
   },
@@ -418,6 +414,10 @@ self.__precacheManifest = [
   {
     "revision": "96f828791c07f91c0aa986e603b3b4d3",
     "url": "/Album-Search/static/media/lato-mediumitalic.96f82879.ttf"
+  },
+  {
+    "revision": "4c66fb2b46d728c2e8d73dff1ea22172",
+    "url": "/Album-Search/static/media/lato-blackitalic.4c66fb2b.ttf"
   },
   {
     "revision": "d5fa302ed37be6c20a884a70850dba22",
@@ -432,7 +432,7 @@ self.__precacheManifest = [
     "url": "/Album-Search/static/media/header.24edbe3d.png"
   },
   {
-    "revision": "10763fe07b30093a876dea4a68427bb0",
+    "revision": "deb2204d15ebee7cab2080ce524bf177",
     "url": "/Album-Search/index.html"
   }
 ];
